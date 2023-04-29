@@ -1,5 +1,5 @@
-# undergraduate
-undergrad hw collection
+# Data Structures and Algorithms
+Data Structures and Algorithms
 
 oop_sorting.cpp
 Created with Object Oriented Programming. The code sorts the rational numbers (objects) with insertion, selection and bubble sort in C++.
